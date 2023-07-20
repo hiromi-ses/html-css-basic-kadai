@@ -14,17 +14,16 @@ h1 {
   font-family: "Open Sans", sans-serif;
 }
 
-#parent p {
+#basic p {
   font-weight: bold;
 }
 
 span {
   color: skyblue;
 }
-span2 {
+.pink {
   color: rgb(255, 192, 203);
 }
-
 .groop1 {
   color: rgb(255, 192, 203);
 }
